@@ -6,7 +6,7 @@ Wget is a command-line utility in Linux and other Unix-like operating systems th
 ## How use use
 Compile Code with:
 ```
-gcc -o wget wget.c
+gcc wget.c -o wget
 ```
 Run wget:
 ```
